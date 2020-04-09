@@ -9,7 +9,3 @@ This analysis shows the employment details of a company namely describing the de
 <p align="center">
   <img width="800" height="500" src="https://github.com/narayanan-nithya/EmployeeSQLAnalysis/blob/master/QuickDBD-Free%20Diagram.png">
 </p>
-
-<p align="center">
-  <img width="800" height="500" src="https://github.com/narayanan-nithya/EmployeeSQLAnalysis/blob/master/employee_database.sql">
-</p>
